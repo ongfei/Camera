@@ -1,0 +1,6 @@
+target 'Camera' do 
+
+pod 'Masonry'
+
+end
+
